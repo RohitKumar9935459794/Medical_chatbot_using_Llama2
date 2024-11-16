@@ -1,13 +1,22 @@
 # Medical_chatbot_using_Llama2
 
-End-to-end-Medical-Chatbot-using-Llama2
+##End-to-end-Medical-Chatbot-using-Llama2
+
 How to run?
-STEPS:
+
+#STEPS:
+
 Clone the repository
 
 Project repo: https://github.com/
-STEP 01- Create a conda environment after opening the repository
-conda create -n mchatbot python=3.8 -y
+
+#STEP 01- Create a conda environment after opening the repository
+
+#create a env
+##conda create -n mchatbot python=3.8 -y
+
+
+#activate env
 conda activate mchatbot
 STEP 02- install the requirements
 pip install -r requirements.txt
